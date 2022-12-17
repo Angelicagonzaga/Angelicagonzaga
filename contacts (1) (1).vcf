@@ -1,0 +1,27 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Contacts+ Support
+N:Support;Contacts+;;;
+item1.EMAIL;TYPE=INTERNET:support@contactsplus.com
+item1.X-ABLabel:INTERNET
+ADR;TYPE=WORK:;;;Huntington Beach;CA;;United States;Huntington Beach CA Uni
+ ted States
+item2.URL:https\://twitter.com/contactsplus
+item2.X-ABLabel:homePage
+item3.URL:https\://www.facebook.com/contactspls
+item3.X-ABLabel:homePage
+item4.URL:https\://www.linkedin.com/company/contacts-plus-app
+item4.X-ABLabel:homePage
+item5.URL:https\://support.contactsplus.com/article/69-de-bugging-a-sync-lo
+ opWFjVAACFhV0AJk2dDPNLEeyQBGJvQAZ8AbkK
+item5.X-ABLabel:homePage
+NOTE:*----------------*\nText below this line will not be preserved.\n\nThi
+ s contact was created by Contacts+ in order to detect any syncing loops or
+  other anomalies. You may delete it if you like\, but\, if you do\, we wil
+ l be unable to perform a safety check on your account. Please contact supp
+ ort@contactsplus.com if you have any questions\, or see the following arti
+ cle for more information\:\nhttps\://support.contactsplus.com/article/69-d
+ e-bugging-a-sync-loopWFjVAACFhV0AJk2dDPNLEeyQBGJvQAZ8AbkK\n\nOrigin\: ange
+ licagonzagagomes@gmail.com (google2)\nMagic\: \\¥Ѭ
+CATEGORIES:myContacts
+END:VCARD
